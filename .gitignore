@@ -90,3 +90,6 @@ ENV/
 .ropeproject
 .idea/
 *.swp
+*.dat
+*.zip
+.idea/
